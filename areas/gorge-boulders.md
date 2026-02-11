@@ -25,6 +25,137 @@ Limited for beginners — approaches involve steep gorge descents (150-800 ft), 
 | **Wind** | Sheltered — deep gorge reduces wind at cliff base |
 | **Rain verdict** | Yes (Endless Wall / Nuttall sectors) — cliff-base overhang boulders stay dry during active rain. Bridge Buttress has some shelter. Best active-rain option in the gorge. |
 
+### Area Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Endless Wall / Fern Creek",
+        "description": "Best gorge sector — Gorge Warm-Up ⭐ (V2, sheltered), cliff-base overhangs stay dry. Good rain shelter. 5-15 min approach. Uneven talus landings. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0790, 38.0665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nuttall / Fern Buttress",
+        "description": "Less-trafficked sector — overhanging sandstone, good rain shelter. 15-25 min approach. Uneven talus landings. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0840, 38.0705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaymoor (⚠️ SKIP IN FEBRUARY)",
+        "description": "⚠️ 800+ icy steel grate steps — DANGEROUS in winter. Skip entirely Feb trip. Has V1-V2 problems but approach risk too high. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "medium",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0690, 38.0580]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Endless Wall Trailhead Parking",
+        "description": "NPS paved lot, 15-20 vehicles. Lansing-Edmond Rd (CR 82). Free, no fee. Main access for Endless Wall sector. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0785, 38.0670]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nuttall / Long Point Trailhead Parking",
+        "description": "NPS lot, ~10 vehicles. Access for Nuttall/Fern Buttress sector. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0835, 38.0710]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fayette Station Parking",
+        "description": "Access for Bridge Buttress area. Near Fayette Station Rd at gorge floor. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0830, 38.0705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canyon Rim Visitor Center Parking",
+        "description": "Large NPS lot, safe in winter. Alternative access for Bridge Buttress (longer approach). Open year-round. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0750, 38.0700]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaymoor Trailhead Parking",
+        "description": "NPS lot, 8-12 vehicles. Kaymoor Road. ⚠️ Do not use in February — icy steel steps. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0690, 38.0580]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🔴 Sector · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🔴 Red | Sector | 3 |
+| ⚪ Gray | Parking | 5 |
+
 ## Sectors
 
 ### Endless Wall / Fern Creek

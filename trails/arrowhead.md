@@ -4,6 +4,68 @@
 >
 > [Google Maps](https://www.google.com/maps/search/Arrowhead+Trails+Fayetteville+WV+Gatewood+Rd) [UNVERIFIED] | From Fayetteville: Head toward Gatewood Rd / Arrowhead Dr on the outskirts of town (~38.05 N, -81.10 W) [UNVERIFIED]
 
+### Trail Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arrowhead Trails",
+        "description": "Primary MTB — ~10-13 mi purpose-built singletrack, green to black. Ride early on frozen ground (7-10 AM). Free access, always open. [UNVERIFIED]",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0837, 38.0393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arrowhead Trailhead Parking",
+        "description": "Parking at Gatewood Rd trailhead. Free. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0837, 38.0393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Handle Bar + Kitchen",
+        "description": "Post-ride beer at Arrowhead Bike Farm. WV craft beer, vegan-friendly. February hours [UNVERIFIED].",
+        "marker-color": "#f1c40f",
+        "marker-size": "medium",
+        "category": "brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0806, 38.0403]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🟢 Trail system · 🟡 Post-ride beer · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🟢 Green | Trail system | 1 |
+| 🟡 Yellow | Post-ride beer | 1 |
+| ⚪ Gray | Parking | 1 |
+
 ---
 
 ## Trail Summary

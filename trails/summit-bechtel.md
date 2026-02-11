@@ -4,6 +4,53 @@
 >
 > [Google Maps](https://www.google.com/maps/place/2550+Jack+Furst+Dr,+Glen+Jean,+WV+25846) [UNVERIFIED] | From Fayetteville: US-19 S to WV-16/Gatewood Rd, follow signs to Summit Bechtel Reserve [UNVERIFIED]
 
+### Trail Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summit Bechtel Reserve",
+        "description": "Premium MTB — ~30-40 mi trail, green to double black. Private BSA facility. ⚠️ MUST call (304) 465-2800 or check summitbsa.org — public access NOT guaranteed. Likely $5-20/day [UNVERIFIED].",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.11, 38.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summit Bechtel Parking / Entrance",
+        "description": "2550 Jack Furst Dr, Glen Jean, WV 25846. Waiver required at entrance. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.11, 38.02]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🟢 Trail system · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🟢 Green | Trail system | 1 |
+| ⚪ Gray | Parking | 1 |
+
 ---
 
 > **!! ACCESS WARNING — READ BEFORE PLANNING !!**

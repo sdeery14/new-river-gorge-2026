@@ -6,6 +6,68 @@
 
 > **NOTE**: Babcock State Park is NOT a purpose-built mountain biking system. Riding is limited to old roads, railroad grades, and designated service roads only. Bikes are NOT permitted on hiking-only footpaths (Glade Creek Trail, Island in the Sky, etc.). Confirm current bike-legal routes with park staff before riding.
 
+### Trail Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Babcock State Park",
+        "description": "Scenic backup MTB — ~5-10 mi on old roads and railroad grades. 30-35 min from Fayetteville. Call (304) 438-3004 for winter road access. [UNVERIFIED]",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.95, 38.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Babcock State Park Entrance Parking",
+        "description": "486 Babcock Rd, Clifftop, WV 25831. Interior park roads may be gated in winter — call ahead. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.95, 38.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glade Creek Grist Mill",
+        "description": "Iconic WV landmark — scenic stop if visiting Babcock. ~1 min walk from parking. [UNVERIFIED]",
+        "marker-color": "#1abc9c",
+        "marker-size": "small",
+        "category": "activity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.9468, 37.9795]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🟢 Trail system · 🟦 Scenic point · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🟢 Green | Trail system | 1 |
+| 🟦 Teal | Scenic point | 1 |
+| ⚪ Gray | Parking | 1 |
+
 ## Trail Summary
 
 | Trail | Difficulty | Distance | Surface | Features |

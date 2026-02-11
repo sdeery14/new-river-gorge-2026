@@ -27,6 +27,81 @@ Excellent for mixed-ability groups. Best beginner area in the region with abunda
 | **Wind** | Exposed — significant wind on lakeshore. Aids drying but uncomfortable in cold. |
 | **Rain verdict** | No — not recommended during active rain. Virtually all problems exposed. Wait for dry conditions. |
 
+### Area Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Point",
+        "description": "Primary sector — 6+ V0-V3 problems including Lakeshore Slab ⭐ and Easy Traverse ⭐. Exposed (no shelter). Flat lakebed landings. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8925, 38.1345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pirates Cove",
+        "description": "Secondary sector — V0-V3 problems including Cove Jug Haul (only partially sheltered problem at Summersville). Exposed. Flat lakebed landings. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8940, 38.1340]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Orange Oswald Wall Area",
+        "description": "Cliff-base sector — intermediate-to-hard problems. Minimal cliff shelter. Talus/mixed landings. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8910, 38.1355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Point Trailhead Parking",
+        "description": "Gravel lot, 10-15 vehicles. WV Rt. 129. Free, no fee. Access all Summersville Lake sectors from here. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8920, 38.1350]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🔴 Sector · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🔴 Red | Sector | 3 |
+| ⚪ Gray | Parking | 1 |
+
 ## Sectors
 
 ### Long Point [UNVERIFIED]

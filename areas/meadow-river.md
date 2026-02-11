@@ -25,6 +25,81 @@ Good for all levels. V4-V6 density is highest — great for intermediate climber
 | **Wind** | Moderate — river corridor funnels wind, aids drying |
 | **Rain verdict** | Yes — overhanging problems climbable during active rain. Best rain-day bouldering option in the region. |
 
+### Area Map
+
+> Markers are approximate. All coordinates [UNVERIFIED].
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Area / Roadside",
+        "description": "Primary sector — The Warm-Up ⭐ (V1), Juggy Roof ⭐ (V2), Easy Overhang (V0). 3 sheltered problems for rain days. Flat landings, 50 yd approach. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8590, 38.0210]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "River Boulders",
+        "description": "Secondary sector — River Slab (V2), technical footwork problems along Meadow River bank. Exposed. 100-150 yd approach. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8580, 38.0205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Upstream / Upper Meadow",
+        "description": "Exploratory sector — fewer documented problems, exposed. 150-200 yd approach. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "sector"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8575, 38.0220]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roadside Parking (Gravel Pulloffs)",
+        "description": "Multiple gravel pulloffs along US-60 E near Meadow Bridge. Free, no fee. Park near your target sector. [UNVERIFIED]",
+        "marker-color": "#95a5a6",
+        "marker-size": "small",
+        "category": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8595, 38.0215]
+      }
+    }
+  ]
+}
+```
+
+**Legend**: 🔴 Sector · ⚪ Parking
+
+| Color | Category | Count |
+|-------|----------|-------|
+| 🔴 Red | Sector | 3 |
+| ⚪ Gray | Parking | 1 |
+
 ## Sectors
 
 ### Main Area / Roadside [UNVERIFIED]

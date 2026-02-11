@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cathedral Cafe",
+        "description": "Breakfast/brunch in a converted church. Try the breakfast burrito. Closed Wednesdays. February hours [UNVERIFIED].",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium",
+        "category": "dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1032, 38.0524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pies & Pints",
+        "description": "Craft pizza + beer. Happy hour Mon-Fri 3-6p. Group-friendly. February hours [UNVERIFIED].",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium",
+        "category": "dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1040, 38.0529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Secret Sandwich Society",
+        "description": "Thoughtful sandwiches + cocktails. Homemade pickles, chips. February hours [UNVERIFIED].",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium",
+        "category": "dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1046, 38.0555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Handle Bar + Kitchen",
+        "description": "Beer garden at Arrowhead Bike Farm. WV craft beer, vegan-friendly. Perfect post-ride. February hours [UNVERIFIED].",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium",
+        "category": "dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0806, 38.0403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Firecreek BBQ & Steaks",
+        "description": "Best BBQ locally — smoked ribs and brisket. February hours [UNVERIFIED].",
+        "marker-color": "#9b59b6",
+        "marker-size": "medium",
+        "category": "dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1047, 38.0555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bridge Brew Works",
+        "description": "Dog-friendly craft brewery. Indoor tasting room, pizza/tacos on-site. February hours [UNVERIFIED].",
+        "marker-color": "#f1c40f",
+        "marker-size": "medium",
+        "category": "brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1056, 38.0516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southside Junction Tap House",
+        "description": "12 rotating WV craft taps + full restaurant menu. Group-friendly. February hours [UNVERIFIED].",
+        "marker-color": "#f1c40f",
+        "marker-size": "medium",
+        "category": "brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1020, 38.0517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water Stone Outdoors",
+        "description": "Local gear shop — guidebooks, trail beta, bike service. (304) 574-2425. February hours [UNVERIFIED].",
+        "marker-color": "#3498db",
+        "marker-size": "medium",
+        "category": "gear-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0974, 38.0518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walmart Supercenter",
+        "description": "Best grocery selection in area. 204 Town Center Rd. Hours: 6a-11p daily [UNVERIFIED].",
+        "marker-color": "#7f8c8d",
+        "marker-size": "small",
+        "category": "supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1198, 38.0343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheetz",
+        "description": "24-hour fuel + food + snacks. 27 Whitewater Ave. [UNVERIFIED]",
+        "marker-color": "#7f8c8d",
+        "marker-size": "small",
+        "category": "supply"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1114, 38.0339]
+      }
+    }
+  ]
+}

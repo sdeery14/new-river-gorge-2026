@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summersville Lake",
+        "description": "Best beginner area — 13 V0-V3 problems, flat landings. 35-40 min from Fayetteville. Rain resilience: Poor (exposed). [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "bouldering-area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8920, 38.1350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meadow River",
+        "description": "Rain-day backup — sheltered overhangs, short approaches. 35-40 min from Fayetteville. Rain resilience: Good. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "bouldering-area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8590, 38.0210]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gorge Boulders",
+        "description": "Best rain shelter — cliff-base overhangs stay dry. 5-15 min from Fayetteville. Rain resilience: Good-Fair. [UNVERIFIED]",
+        "marker-color": "#e74c3c",
+        "marker-size": "large",
+        "category": "bouldering-area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0785, 38.0670]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arrowhead Trails",
+        "description": "Primary MTB — 10-13 mi singletrack, green to black. 5-10 min from Fayetteville. Free access. [UNVERIFIED]",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0837, 38.0393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summit Bechtel Reserve",
+        "description": "Premium MTB — 30-40 mi trail, green to double black. 12-18 min from Fayetteville. ⚠️ MUST call (304) 465-2800 — access NOT guaranteed. [UNVERIFIED]",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.11, 38.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Babcock State Park",
+        "description": "Scenic backup MTB — 5-10 mi old roads and railroad grades. 30-35 min from Fayetteville. Call (304) 438-3004 for road access. [UNVERIFIED]",
+        "marker-color": "#2ecc71",
+        "marker-size": "large",
+        "category": "trail-system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.95, 38.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fayetteville",
+        "description": "Base town — lodging, dining, gear shops, groceries. All drives measured from here.",
+        "marker-color": "#1abc9c",
+        "marker-size": "large",
+        "category": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1035, 38.0520]
+      }
+    }
+  ]
+}
