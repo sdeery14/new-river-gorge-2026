@@ -22,6 +22,8 @@
 
 ## Nuttall Sandstone Drying Reference
 
+*For the full drying guide with surface-dry vs. friction-restored distinction, February modifiers, and per-area drying speeds, see [Conditions Guide → Drying Reference](../conditions/README.md#drying-reference).*
+
 | Condition | Overhanging | Vertical | Slab |
 |-----------|------------|----------|------|
 | Light rain → sun + wind | Already dry | 1-3 hrs | 2-4 hrs |

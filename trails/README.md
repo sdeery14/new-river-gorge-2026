@@ -38,6 +38,8 @@ All data [UNVERIFIED]. See individual profiles for details.
 
 ## February Riding Tips
 
+*For freeze/thaw timeline details and how to pair morning rides with afternoon bouldering, see [Conditions Guide → Freeze/Thaw Guide](../conditions/README.md#freezethaw-guide).*
+
 - **Freeze/thaw is the #1 concern.** Trails are rideable when frozen solid (early morning) but become mud pits when the surface thaws midday. The best window is 7-10 AM on cold, sunny days after several dry days.
 - **Do NOT ride muddy trails.** Riding wet singletrack creates ruts that persist for months. If your tires leave impressions deeper than ~1 inch, turn around. This is a community ethic, not just a suggestion.
 - **Check conditions morning-of.** Trail conditions can change overnight with a single freeze or rain event. Check Trailforks, call a local shop, or check Active SWV Facebook before heading out.
