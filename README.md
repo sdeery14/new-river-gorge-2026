@@ -13,6 +13,7 @@ A decision-support guide for a week-long bouldering trip based in Fayetteville, 
 | **"It's a rest day — what do we do?"** | [Rest-day guide](rest-day/README.md) — options sorted by energy level |
 | **"Can someone ride bikes instead?"** | [Trail profiles](trails/README.md) — 3 trail systems with February conditions |
 | **"Where is everything on a map?"** | [Interactive maps](maps/README.md) — GeoJSON maps of areas, trails, and town amenities |
+| **"When do we switch to NRG?"** | [Decision Trigger Playbook](playbook/README.md) — weather thresholds, booking deadlines, contingency paths |
 | **"What's Sean's plan?"** | [Sean's guide](sean/README.md) — personal decision matrix, V1-V3 problems, food picks |
 
 ## What's in the Repo
@@ -48,6 +49,10 @@ Dining, breweries, hiking trails, hot springs, and indoor options — all with d
 ### [Sean's Personal Trip Guide](sean/README.md)
 
 Personalized decision matrix, V1-V3 bouldering tick list, mountain biking priority stack, food & drink picks, and daily logistics — all calibrated for Sean's ability band and preferences.
+
+### [Decision Trigger Playbook](playbook/README.md)
+
+"When do we switch from Chattanooga to NRG?" Weather-based decision tree, trigger thresholds at 7-day/3-day/1-day windows, side-by-side weather resilience comparison, booking & cancellation timeline with financial exposure, and contingency paths for degraded scenarios.
 
 ### [Interactive Area Maps](maps/README.md)
 
@@ -112,6 +117,8 @@ rest-day/
   README.md                ← Rest-day options by energy level
 sean/
   README.md                ← Sean's personal trip guide
+playbook/
+  README.md                ← Decision Trigger Playbook (Chattanooga vs NRG)
 maps/
   README.md                ← Regional overview + town amenities maps
   *.geojson                ← Canonical map files (8 total)
