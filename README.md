@@ -12,6 +12,7 @@ A decision-support guide for a week-long bouldering trip based in Fayetteville, 
 | **"What do we need before going to [area]?"** | [Logistics guide](logistics/README.md) — regulations, parking, approach, warnings |
 | **"It's a rest day — what do we do?"** | [Rest-day guide](rest-day/README.md) — options sorted by energy level |
 | **"Can someone ride bikes instead?"** | [Trail profiles](trails/README.md) — 3 trail systems with February conditions |
+| **"Where do I rent a bike?"** | [Bike Rental Guide](trails/bike-rentals.md) — shop directory, beginner tips, fallback strategies |
 | **"Where is everything on a map?"** | [Interactive maps](maps/README.md) — GeoJSON maps of areas, trails, and town amenities |
 | **"When do we switch to NRG?"** | [Decision Trigger Playbook](playbook/README.md) — weather thresholds, booking deadlines, contingency paths |
 | **"What's Sean's plan?"** | [Sean's guide](sean/README.md) — personal decision matrix, V1-V3 problems, food picks |
@@ -37,6 +38,7 @@ Area profiles for 3 bouldering zones within driving distance of Fayetteville. Ea
 - **Arrowhead Trails** — primary; 10-13 mi singletrack, 5-10 min from town, free
 - **Summit Bechtel Reserve** — premium; 30-40 mi trail, but private (must call ahead)
 - **Babcock State Park** — scenic backup; old roads and railroad grades
+- **[Bike Rental Guide](trails/bike-rentals.md)** — shop directory, out-of-town alternatives, beginner guidance, and bring-your-own logistics
 
 ### [Logistics & Access Cheat Sheets](logistics/README.md)
 
@@ -113,6 +115,7 @@ trails/
   arrowhead.md             ← Per-trail profiles (with inline trail maps)
   summit-bechtel.md
   babcock.md
+  bike-rentals.md          ← Bike rental guide (shops, beginner tips, fallbacks)
 rest-day/
   README.md                ← Rest-day options by energy level
 sean/

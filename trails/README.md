@@ -72,22 +72,11 @@ All drive times [UNVERIFIED].
 
 ## Bike Rentals
 
-> **⚠️ February Warning**: There is a **HIGH RISK that no bike rental shop will be open** in mid-February. Fayetteville (~2,800 pop.) has an overwhelmingly seasonal outdoor economy (May-October). Plan to bring your own bikes.
+> **⚠️ February Warning**: There is a **HIGH RISK that no bike rental shop will be open** in mid-February. Plan to bring your own bikes.
 
-| Shop | Location | Price | Bikes | February | Contact |
-|------|----------|-------|-------|----------|---------|
-| Ridge Rider MTB | Fayetteville [UNVERIFIED] | ~$40-100/day [UNVERIFIED] | Hardtail, full suspension [UNVERIFIED] | Unknown — best option | Search Facebook/web [UNVERIFIED] |
-| ACE Adventure Resort | Oak Hill (~15 min) | [UNVERIFIED] | Hardtail [UNVERIFIED] | Unlikely (seasonal) | (800) 787-3982 / aceraft.com |
-| Adventures on the Gorge | Lansing (~5-10 min) | [UNVERIFIED] | [UNVERIFIED] | Unlikely (seasonal) | (855) 379-8738 |
-| New River Bikes | Fayetteville area [UNVERIFIED] | [UNVERIFIED] | [UNVERIFIED] | Unknown | [UNVERIFIED] |
+**See the full [Bike Rental Guide](bike-rentals.md)** for shop details, out-of-town alternatives, bring-your-own logistics, and beginner rental guidance.
 
-**If no rentals are available** (likely in February):
-1. **Bring your own bikes** — most reliable option
-2. **Rent in a larger town** en route — check shops in Charleston or Beckley before driving to Fayetteville
-3. **Contact Ridge Rider in advance** — call or message ahead to arrange a special-request February rental
-4. **Skip riding** — pivot to an all-bouldering day (see [Bouldering Areas](../areas/README.md))
-
-All rental data [UNVERIFIED]. Call ahead to confirm availability.
+**Quick options**: New River Bikes (304) 574-2453 · Arrowhead Bike Farm (304) 900-5501 · ACE Adventure Resort (800) 787-3982. All availability [UNVERIFIED] — call ahead.
 
 ## Pre-Trip Verification Checklist
 
@@ -96,7 +85,7 @@ Call or check these before the trip — February conditions and access cannot be
 | Item | Contact | Why |
 |------|---------|-----|
 | Summit Bechtel access | (304) 465-2800 / summitbsa.org | Private facility — confirm public MTB access in February |
-| Ridge Rider bike rental | Search Facebook/web | Confirm February hours and bike availability |
+| Bike rental availability | See [Bike Rental Guide](bike-rentals.md) | Confirm February hours and bike availability |
 | Babcock road access | (304) 438-3004 | Interior park roads may be gated in winter |
 | Arrowhead conditions | Active SWV Facebook / (304) 574-2425 | Current trail status and any closures |
 | Trailforks inventory | trailforks.com | Get actual trail names, maps, distances for Arrowhead and Summit |
